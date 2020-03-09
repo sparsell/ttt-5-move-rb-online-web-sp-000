@@ -10,4 +10,4 @@ input = gets.strip
 
 input_to_index(input)
 
-#move(board, index, mark)
+move(board, index, char)
