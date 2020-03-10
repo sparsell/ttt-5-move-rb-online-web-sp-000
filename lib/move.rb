@@ -16,6 +16,6 @@ end
   end
 
   # move method
-  def move(board, index, char = "X")
-    board[index] = char
+  def move(board, index, token = "X")
+    board[index] = token
   end
